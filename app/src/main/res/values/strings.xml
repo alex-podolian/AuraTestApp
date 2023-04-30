@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AuraTestApp</string>
+
+    <string name="no_boots_detected">No boots detected</string>
+    <string name="boot_detected_text">The boot was detected with the timestamp = %s</string>
+    <string name="last_boot_time_delta">Last boots time delta = %s</string>
+</resources>
